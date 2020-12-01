@@ -4,9 +4,12 @@
 ## Содержание
 
 1. Введение
-    1. [Комментарии в скриптах](src/1._Vvedenie_v_php/1.1_Commentarii_v_scriptah.md)
-    2. [Переменные: создание, интерполяция в строках, имена переменных в переменных](src/1._Vvedenie_v_php/1.2_Peremennie_sozdanie.md)
-    3. [Константы и ключевые слова](src/1._Vvedenie_v_php/1.3_Konstanti_i_kluchevie_slova.md) 
+    1. [Превый скрипт на PHP](src/1._Vvedenie_v_php/1.1_Pervii_script_na_php.md)
+    2. [PHP и HTML](src/1._Vvedenie_v_php/1.2_PHP_i_HTML.md)
+    3. [Запуск PHP-скриптов в командной строке](src/1._Vvedenie_v_php/1.3_Zapusk_v_komandnoi_stroke.md) 
+	4. [Комментарии в скриптах](src/1._Vvedenie_v_php/1.4_Commentarii_v_scriptah.md)
+    5. [Переменные: создание, интерполяция в строках, имена переменных в переменных](src/1._Vvedenie_v_php/1.5_Peremennie_sozdanie.md)
+    6. [Константы и ключевые слова](src/1._Vvedenie_v_php/1.6_Konstanti_i_kluchevie_slova.md) 
 
 
 ## Используемая литература. Что ещё почитать
