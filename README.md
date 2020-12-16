@@ -32,7 +32,7 @@
     18. [Оператор BREAK](src/2._Operators/2.18_Operator-break.md)
     19. [Алтернативный синтаксис](src/2._Operators/2.19_Alternativnyj-sintaksis.md)
     20. [Итоги](src/2._Operators/2.20_Itogi.md) 
-3.Строки и массивы
+3. Строки и массивы
     1.  [Функции обработки строк](src/3._Stroki-i-massivy/3.1_Funkcii-obrabotki-strok.md)
     2.  [Форматирование строк](src/3._Stroki-i-massivy/3.2_Formatirovanie-strok.md)
     3.  [Преобразование в строки и из строк](src/3._Stroki-i-massivy/3.3_Preobrazovanie-v-stroki-i-iz-strok.md)
