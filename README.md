@@ -32,7 +32,25 @@
     18. [Оператор BREAK](src/2._Operators/2.18_Operator-break.md)
     19. [Алтернативный синтаксис](src/2._Operators/2.19_Alternativnyj-sintaksis.md)
     20. [Итоги](src/2._Operators/2.20_Itogi.md) 
-
+3.Строки и массивы
+    1.  [Функции обработки строк](src/3._Stroki-i-massivy/3.1_Funkcii-obrabotki-strok.md)
+    2.  [Форматирование строк](src/3._Stroki-i-massivy/3.2_Formatirovanie-strok.md)
+    3.  [Преобразование в строки и из строк](src/3._Stroki-i-massivy/3.3_Preobrazovanie-v-stroki-i-iz-strok.md)
+    4.  [Создание массивов](src/3._Stroki-i-massivy/3.4_Sozdanie-massivov.md)
+    5.  [Модификация элементов массива](src/3._Stroki-i-massivy/3.5_Modifikaciya-ehlementov-massiva.md)
+    6.  [Удаление элементов массива](src/3._Stroki-i-massivy/3.6_Udalenie-ehlementov-massiva.md)
+    7.  [Перебор элементов массива](src/3._Stroki-i-massivy/3.7_Perebor-ehlementov-massiva.md)
+    8.  [Функции для работы с массивами](src/3._Stroki-i-massivy/3.8_Funkcii-dlya-raboty-s-massivami.md)
+    9.  [Сортировка массивов](src/3._Stroki-i-massivy/3.9_Sortirovka-massivov.md)
+    10. [Навигация по массивам](src/3._Stroki-i-massivy/3.10_Navigaciya-po-massivam.md)
+    11. [Преобразование строк в массивы и наоборот](src/3._Stroki-i-massivy/3.11_Preobrazovanie-strok-v-massivyi-naoborot.md)
+    12. [Извлечение переменных из массивов](src/3._Stroki-i-massivy/3.12_Izvlechenie-peremennyh-iz-massivov.md)
+    13. [Слияние и разделение массивов](src/3._Stroki-i-massivy/3.13_Sliyanie-i-razdelenie-massivov.md)
+    14. [Сравнение массивов](src/3._Stroki-i-massivy/3.14_Sravnenie-massivov.md)
+    15. [Обработка данных в массивах](src/3._Stroki-i-massivy/3.15_Obrabotka-dannyh-v-massivah.md)
+    16. [Многомерные массивы](src/3._Stroki-i-massivy/3.16_Mnogomernye-massivy.md)
+    17. [Операторы над массивами](src/3._Stroki-i-massivy/3.17_Operatory-nad-massivami.md)
+    18. [Итоги](src/3._Stroki-i-massivy/3.18_Itogi.md)
 
 ## Используемая литература. Что ещё почитать
 
