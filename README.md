@@ -30,8 +30,9 @@
     16. [Цикл WHILE](src/2._Operators/2.16_Cikly-while.md)
     17. [Цикл FOREACH](src/2._Operators/2.17_Cikly-foreach.md)
     18. [Оператор BREAK](src/2._Operators/2.18_Operator-break.md)
-    19. [Алтернативный синтаксис](src/2._Operators/2.19_Alternativnyj-sintaksis.md)
-    20. [Итоги](src/2._Operators/2.20_Itogi.md) 
+    19. [Оператор Continue](src/2._Operators/2.19_Operator-continue.md)
+    20. [Алтернативный синтаксис](src/2._Operators/2.20_Alternativnyj-sintaksis.md)
+    21. [Итоги](src/2._Operators/2.21_Itogi.md) 
 3. Строки и массивы
     1.  [Функции обработки строк](src/3._Stroki-i-massivy/3.1_Funkcii-obrabotki-strok.md)
     2.  [Форматирование строк](src/3._Stroki-i-massivy/3.2_Formatirovanie-strok.md)
