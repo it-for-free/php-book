@@ -52,12 +52,12 @@
     16. [Многомерные массивы](src/3._Stroki-i-massivy/3.16_Mnogomernye-massivy.md)
     17. [Операторы над массивами](src/3._Stroki-i-massivy/3.17_Operatory-nad-massivami.md)
     18. [Итоги](src/3._Stroki-i-massivy/3.18_Itogi.md)
- 4.  Функции  
-        [Создание функции](src/4._funkcii/4.1_sozdanie-funkcii.md)  
-        [Передача данных в функцию](src/4._funkcii/4.2_peredacha-dannyh-v-funkciyu.md)  
-        [Передача массивов в функцию](src/4._funkcii/4.3_peredacha-massivov-v-funkciyu.md)  
-        [Значения аргументов по умолчанию](src/4._funkcii/4.4_znacheniya-argumentov-po-umolchaniyu.md)  
-        [Передача аргумента по ссылке](src/4._funkcii/4.5_peredacha-argumenta-po-ssylke.md)  
+4. Функции  
+     1. [Создание функции](src/4._funkcii/4.1_sozdanie-funkcii.md)  
+     2. [Передача данных в функцию](src/4._funkcii/4.2_peredacha-dannyh-v-funkciyu.md)  
+     3. [Передача массивов в функцию](src/4._funkcii/4.3_peredacha-massivov-v-funkciyu.md)  
+     4. [Значения аргументов по умолчанию](src/4._funkcii/4.4_znacheniya-argumentov-po-umolchaniyu.md)  
+     5. [Передача аргумента по ссылке](src/4._funkcii/4.5_peredacha-argumenta-po-ssylke.md)  
 
 ## Используемая литература. Что ещё почитать
 
