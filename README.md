@@ -53,11 +53,26 @@
     17. [Операторы над массивами](src/3._Stroki-i-massivy/3.17_Operatory-nad-massivami.md)
     18. [Итоги](src/3._Stroki-i-massivy/3.18_Itogi.md)
 4. Функции  
-     1. [Создание функции](src/4._funkcii/4.1_sozdanie-funkcii.md)  
-     2. [Передача данных в функцию](src/4._funkcii/4.2_peredacha-dannyh-v-funkciyu.md)  
-     3. [Передача массивов в функцию](src/4._funkcii/4.3_peredacha-massivov-v-funkciyu.md)  
-     4. [Значения аргументов по умолчанию](src/4._funkcii/4.4_znacheniya-argumentov-po-umolchaniyu.md)  
-     5. [Передача аргумента по ссылке](src/4._funkcii/4.5_peredacha-argumenta-po-ssylke.md)  
+    1.  [Создание функции](src/4._funkcii/4.1_sozdanie-funkcii.md)  
+    2.  [Передача данных в функцию](src/4._funkcii/4.2_peredacha-dannyh-v-funkciyu.md)  
+    3.  [Передача массивов в функцию](src/4._funkcii/4.3_peredacha-massivov-v-funkciyu.md)  
+    4.  [Значения аргументов по умолчанию](src/4._funkcii/4.4_znacheniya-argumentov-po-umolchaniyu.md)  
+    5.  [Передача аргумента по ссылке](src/4._funkcii/4.5_peredacha-argumenta-po-ssylke.md)
+    6.  [Функции с переменным количеством аргументов](src/4._funkcii/4.6_funkcii-s-peremennym-kolichestvom-argumentov.md) 
+    7.  [Функции, возвращающие значение](src/4._funkcii/4.7_funkcii-vozvrashchayushchie-znachenie.md)
+    8.  [Функция, возвращающая массив](src/4._funkcii/4.8_funkciya-vozvrashchayushchaya-massiv.md)
+    9.  [Использование списков](src/4._funkcii/4.9_ispolzovanie-spiskov.md)
+    10. [Функция, возвращающая ссылки](src/4._funkcii/4.10_funkciya-vozvrashchayushchaya-ssylki.md)
+    11. [Локальные переменные](src/4._funkcii/4.11_lokalnye-peremennye.md)
+    12. [Глобальные переменные](src/4._funkcii/4.12_globalnye-peremennye.md)
+    13. [Статические переменные](src/4._funkcii/4.13_staticheskie-peremennye.md)
+    14. [Переменные, ссылающиеся на функции](src/4._funkcii/4.14_peremennye-ssylayushchiesya-na-funkcii.md)
+    15. [Условное описание функций](src/4._funkcii/4.15_uslovnoe-opisanie-funkcij.md)
+    16. [Вложенные функции](src/4._funkcii/4.16_vlozhennye-funkcii.md)
+    17. [Вложенные файлы](src/4._funkcii/4.17_vlozhennye-fajly.md)
+    18. [Обработка ошибок](src/4._funkcii/4.18_obrabotka-oshibok.md)
+    19. [Итоги](src/4._funkcii/4.19_itogi.md)
+
 
 ## Используемая литература. Что ещё почитать
 
