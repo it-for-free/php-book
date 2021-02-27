@@ -85,10 +85,27 @@
     10. [Кнопка изображение](src/5._ehlementy-upravleniya-html/5.10_knopka-izobrazhenie.md)
     11. [Загрузка файлов](src/5._ehlementy-upravleniya-html/5.11_zagruzka-fajlov.md)
     12. [Обработка загруженного файла](src/5._ehlementy-upravleniya-html/5.12_obrabotka-zagruzhennogo-fajla.md)
-    13. [Кнопки:вариант 1](src/5._ehlementy-upravleniya-html/5.13_knopki-variant-1.md)
-    14. [Кнопки:вариант 2](src/5._ehlementy-upravleniya-html/5.14_knopki-variant-2.md)
-    15. [Кнопки:вариант 3](src/5._ehlementy-upravleniya-html/5.15_knopki-variant-3.md)
-    16. [Итоги](src/5._ehlementy-upravleniya-html/5.16_itogi.md)
+    13. [Кнопки:вариант](src/5._ehlementy-upravleniya-html/5.13_knopki-variant-1.md)
+    14. [Итоги](src/5._ehlementy-upravleniya-html/5.16_itogi.md)
+   
+6.  Web-приложения  
+    1.  [Отображение данных формы](src/6._web-prilozheniya/6.1_otobrazhenie-dannyh-formy.md)  
+    2.  [Переменные сервера](src/6._web-prilozheniya/6.2_peremennye-servera.md)  
+    3.  [Заголовки HTTP](src/6._web-prilozheniya/6.3_zagolovki-http.md)
+    4.  [Определение типа браузера](src/6._web-prilozheniya/6.4_opredelenie-tipa-brauzera.md) 
+    5.  [Перенаправление)](src/6._web-prilozheniya/6.5_perenapravlenie.md)
+    6.  [Организация полей форм в массивы](src/6._web-prilozheniya/6.6_organizaciya-polej-form-v-massivy.md)
+    7.  [Приложение из одной страницы](src/6._web-prilozheniya/6.7_prilozhenie-iz-odnoj-stranicy.md)
+    8.  [Проверка данных](src/6._web-prilozheniya/6.8_proverka-dannyh.md)
+    9.  [Обязательное для заполнение поле](src/6._web-prilozheniya/6.9_obyazatelnoe-dlya-zapolnenie-pole.md)
+    10. [Проверка числовых полей](src/6._web-prilozheniya/6.10_proverka-chislovyh-polej.md)
+    11. [Проверка строковых полей](src/6._web-prilozheniya/6.11_proverka-strokovyh-polej.md)
+    12. [Удаление тегов HTML](src/6._web-prilozheniya/6.12_udalenie-tegov-html.md)
+    13. [Кодирование тегов HTML](src/6._web-prilozheniya/6.13_kodirovanie-tegov-html.md)
+    14. [Сохранение данных](src/6._web-prilozheniya/6.14_sohranenie-dannyh.md)
+    15. [Использование JavaScript для проверки данных](src/6._web-prilozheniya/6.15_ispolzovanie-javascript-dlya-proverki-dannyh.md)
+    16. [HТТР аутентификация](src/6._web-prilozheniya/6.16_http-autentifikaciya.md)
+    17. [Итоги](src/6._web-prilozheniya/6.17_itogi.md)
     
 
 ## Используемая литература. Что ещё почитать
