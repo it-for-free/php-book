@@ -123,12 +123,12 @@
       pip install mkdocs
       ```
     * установить плагины используемые в процессе генерации страниц 
-    ```bash
-    pip install mkdocs-material
-    pip install mkdocs-literate-nav
-    ```
+      ```bash
+      pip install mkdocs-material
+      pip install mkdocs-literate-nav
+      ```
     * для генерации локальной копии 
-    ```bash
-    mkdoc serve
-    ```
+      ```bash
+      mkdoc serve
+      ```
     и в браузере перейти по адресу [http://localhost:8000](http://localhost:8000)
