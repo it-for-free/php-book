@@ -1,0 +1,36 @@
+site_name: учебник PHP
+docs_dir: src/
+
+# Указание используемой темы
+theme:
+  name: material
+  favicon: img/favicon.ico
+  language: ru
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: yellow
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - toc.integrate
+    # - navigation.tabs
+
+markdown_extensions:
+  - toc:
+      toc_depth: 6
+
+plugins:
+  - search:
+      lang:
+        - ru
+        - en
+  - literate-nav:
+      nav_file: SUMMARY.md
