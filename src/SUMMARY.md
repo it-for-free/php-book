@@ -1,0 +1,6 @@
+* [Введение в PHP](1._Vvedenie_v_php/)
+* [Операторы](2._Operators/)
+* [Строки и массивы](3._Stroki-i-massivy/)
+* [Функции](4._funkcii/)
+* [Элементы управления](5._ehlementy-upravleniya-html/)
+* [Web-приложения](6._web-prilozheniya/)

@@ -1,2 +1,49 @@
 /nbproject/*
 _book/
+# -----------------------------------------------------------------------------
+# Node, TypeScript, Python
+# -----------------------------------------------------------------------------
+
+# Dependencies
+/node_modules
+/__pycache__
+/venv
+/.venv
+
+# Build files
+/build
+/MANIFEST
+/site
+
+# Distribution files
+/dist
+/mkdocs_material.egg-info
+
+# Caches and logs
+*.cpuprofile
+*.log
+*.tsbuildinfo
+.cache
+.eslintcache
+
+# -----------------------------------------------------------------------------
+# General
+# -----------------------------------------------------------------------------
+
+# Never ignore .gitkeep files
+!**/.gitkeep
+
+# Husky hooks
+.husky/.gitignore
+.husky/_
+
+# macOS internals
+.DS_Store
+
+# Temporary files
+TODO
+tmp
+
+# IDEs
+.vscode
+.idea
