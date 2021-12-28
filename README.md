@@ -119,7 +119,7 @@
     11. [Чтение строк текста:fgets](src/7._oop-i-fajly/7.11_chtenie-strok-teksta-fgets.md)
     12. [Чтение символов:fgetc](src/7._oop-i-fajly/7.12_chtenie-simvolov-fgetc.md)
     13. [Двоичное чтение файла:fread](src/7._oop-i-fajly/7.13_dvoichnoe-chtenie-fajla-fread.md)
-    14. [Чтение файла целиком:file get contents](src/7._oop-i-fajly/7.14_chtenie-fajla-celikom-file-get-contents.md)
+    14. [Чтение файла целиком:file_get_contents](src/7._oop-i-fajly/7.14_chtenie-fajla-celikom-file-get-contents.md)
     15. [Синтаксический разбор файла:fscanf](src/7._oop-i-fajly/7.15_sintaksicheskij-razbor-fajla-fscanf.md)
     16. [Запись в файл:fwrite](src/7._oop-i-fajly/7.16_zapis-v-fajl-fwrite.md)
     17. [Добавление к файлу:fwrite](src/7._oop-i-fajly/7.17_dobavlenie-k-fajlu-fwrite.md)
