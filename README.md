@@ -87,7 +87,6 @@
     12. [Обработка загруженного файла](src/5._ehlementy-upravleniya-html/5.12_obrabotka-zagruzhennogo-fajla.md)
     13. [Кнопки:вариант](src/5._ehlementy-upravleniya-html/5.13_knopki-variant-1.md)
     14. [Итоги](src/5._ehlementy-upravleniya-html/5.16_itogi.md)
-   
 6.  Web-приложения  
     1.  [Отображение данных формы](src/6._web-prilozheniya/6.1_otobrazhenie-dannyh-formy.md)  
     2.  [Переменные сервера](src/6._web-prilozheniya/6.2_peremennye-servera.md)  
@@ -106,6 +105,27 @@
     15. [Использование JavaScript для проверки данных](src/6._web-prilozheniya/6.15_ispolzovanie-javascript-dlya-proverki-dannyh.md)
     16. [HТТР аутентификация](src/6._web-prilozheniya/6.16_http-autentifikaciya.md)
     17. [Итоги](src/6._web-prilozheniya/6.17_itogi.md)
+7.  ООП и файлы  
+    1.  [Классы и объекты](src/7._oop-i-fajly/7.1_klassy-i-obekty.md)
+    2.  [Создание класса](src/7._oop-i-fajly/7.2_sozdanie-klassa.md)
+    3.  [Создание объекта](src/7._oop-i-fajly/7.3_klassy-i-obekty.md)
+    4.  [Управление доступом к свойствам и методам](src/6._oop-i-fajly/7.4_upravlenie-dostupom-k-svojstvam-i-metodam.md)
+    5.  [Конструкторы объектов](src/7._oop-i-fajly/7.5_konstruktory-obektov.md)
+    6.  [Наследование классов](src/7._oop-i-fajly/7.6_nasledovanie-klassov.md)
+    7.  [Наследование и защищенные методы](src/7._oop-i-fajly/7.7_nasledovanie-i-zashchishchennye-metody.md)
+    8.  [Перекрытие методов](src/7._oop-i-fajly/7.8_perekrytie-metodov.md)
+    9.  [Доступ к методам базового класса](src/7._oop-i-fajly/7.9_dostup-k-metodam-bazovogo-klassa.md)
+    10. [Открытие файла:fopen](src/7._oop-i-fajly/7.10_otkrytie-fajla-fopen.md)
+    11. [Чтение строк текста:fgets](src/7._oop-i-fajly/7.11_chtenie-strok-teksta-fgets.md)
+    12. [Чтение символов:fgetc](src/7._oop-i-fajly/7.12_chtenie-simvolov-fgetc.md)
+    13. [Двоичное чтение файла:fread](src/7._oop-i-fajly/7.13_dvoichnoe-chtenie-fajla-fread.md)
+    14. [Чтение файла целиком:file get contents](src/7._oop-i-fajly/7.14_chtenie-fajla-celikom-file-get-contents.md)
+    15. [Синтаксический разбор файла:fscanf](src/7._oop-i-fajly/7.15_sintaksicheskij-razbor-fajla-fscanf.md)
+    16. [Запись в файл:fwrite](src/7._oop-i-fajly/7.16_zapis-v-fajl-fwrite.md)
+    17. [Добавление к файлу:fwrite](src/7._oop-i-fajly/7.17_dobavlenie-k-fajlu-fwrite.md)
+    18. [Запись файла целиком:file_put_contents](src/7._oop-i-fajly/7.18_zapis-fajla-celikom-file-put-contents.md)
+    19. [Итоги](src/7._oop-i-fajly/7.19_itogi.md)
+    
     
 
 ## Используемая литература. Что ещё почитать
